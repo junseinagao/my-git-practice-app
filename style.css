@@ -6,6 +6,10 @@
   --button-bg-color: #fff;
 }
 
+body {
+  background-color: aqua;
+}
+
 button {
   background-color: var(--button-bg-color);
   border: solid 1px var(--button-border-color);
